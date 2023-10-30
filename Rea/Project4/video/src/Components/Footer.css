@@ -1,0 +1,27 @@
+.b{
+    font-family: 'Noto Sans Tagalog', sans-serif;
+}
+
+  @media (max-width: 706px) {
+    #Footer{
+      width: 140px;
+      height:850px;
+      bottom: 0;
+    }
+}
+
+
+
+
+.w-100 {
+  
+    height: 194%!important;
+}
+h5{
+  font-family: sans-serif;
+  font-weight: 300;
+}
+h4{
+  font-family: sans-serif;
+}
+

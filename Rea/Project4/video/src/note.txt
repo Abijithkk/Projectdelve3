@@ -1,0 +1,31 @@
+dragging events
+---------------
+
+OnDragStart
+OnDragOver
+OnDrop
+(events with target value)
+
+
+
+
+REDUX
+-----
+
+coupling - It is defined as the degree of interdependence between the modules. It is about how much one module depends on or interacts with other modules
+props drilling -While data sharing occurs between parent and child ,if any error happens
+
+state management technology-redux
+
+
+store- a js file used to store all states in a redux project
+
+action - a js file contains functions to update the states in store
+
+dispatch -operation used by the component to update the data inside store
+
+payload-output data of a function inside action file
+
+reducer-responsible to update the states inside the store by using payload
+
+

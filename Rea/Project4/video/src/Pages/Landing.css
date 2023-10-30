@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+#head{
+    font-family: 'Russo One', sans-serif;
+    color: rgb(123, 8, 8);
+}
+.fs-5{
+    font-family: 'Arvo', serif;
+}
+.blac{
+    font-family: 'Source Sans 3', sans-serif;
+}
+.bl{
+    font-family: 'Abril Fatface', serif;
+font-weight: bold;
+}
+
+body{
+    background-image: url("https://img.freepik.com/free-photo/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products_1258-54562.jpg?size=626&ext=jpg&ga=GA1.1.2065947858.1697211183&semt=ais");
+    background-size: cover;
+}

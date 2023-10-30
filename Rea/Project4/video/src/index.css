@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+ 
+ 
+}
+.w-100 {
+  width: 114%!important;
+}
+body{
+  /* background-color: black; */
+ background-image: url("https://i.postimg.cc/t4P2zYhX/ezgif-1-68c91ec22b.gif");
+}
+
+@media(max-width:768px){
+  #addbutton{
+    margin-right: 50%;
+    font-size:166%
+  }
+  #Categoriesn{
+margin-top: 20%;
+/* margin-left: 10%; */
+  }
+  #Videocardn{
+    margin-left: 10%;
+  }
+  #Categor{
+    margin-left: 10%;
+  }
+}

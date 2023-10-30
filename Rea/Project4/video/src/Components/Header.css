@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Courgette&family=Croissant+One&family=Kaushan+Script&family=Libre+Baskerville&family=Lobster&family=Niconne&family=Noto+Sans+TC:wght@100;300&family=Noto+Sans+Tagalog&family=Poppins:wght@100&family=Young+Serif&display=swap');
+b{
+    
+    font-family: 'Prata', serif;
+    
+    font-size: larger;
+    font-weight: bold;
+}
+.navbar{
+   background-color: rgb(255, 255, 255);
+   /* background-image: url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-102267.jpg?size=626&ext=jpg&ga=GA1.2.2065947858.1697211183&semt=ais"); */
+}
+@media (max-width: 768px) {
+   navbar{
+    width: 108%;
+   }
+  }
